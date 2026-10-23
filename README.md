@@ -771,7 +771,7 @@ Contributions, issues, and feature requests are welcome!
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-Check the [open issues](https://github.com/AmiNilay/Crop-Yield-Prediction-System/issues) for a list of proposed features and known bugs.
+
 
 ---
 
@@ -779,17 +779,7 @@ Check the [open issues](https://github.com/AmiNilay/Crop-Yield-Prediction-System
 
 Distributed under the **MIT License**. See [LICENSE](LICENSE) for more information.
 
----
 
-## 👤 Author
-
-**Nilay Naha** — [@AmiNilay](https://github.com/AmiNilay)
-
-Project Link: [https://github.com/AmiNilay/Crop-Yield-Prediction-System](https://github.com/AmiNilay/Crop-Yield-Prediction-System)
-
----
-
-## 🙏 Acknowledgments
 
 - 🛰️ [NASA POWER](https://power.larc.nasa.gov/) for free agroclimatology data
 - 🌤️ [Open-Meteo](https://open-meteo.com/) for free seasonal forecast API
@@ -801,11 +791,9 @@ Project Link: [https://github.com/AmiNilay/Crop-Yield-Prediction-System](https:/
 
 <div align="center">
 
-### ⭐ If this project helped you, please give it a star!
+
 
 **Made with 🌾 for Indian farmers**
 
-[![GitHub stars](https://img.shields.io/github/stars/AmiNilay/Crop-Yield-Prediction-System?style=social)](https://github.com/AmiNilay/Crop-Yield-Prediction-System/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/AmiNilay/Crop-Yield-Prediction-System?style=social)](https://github.com/AmiNilay/Crop-Yield-Prediction-System/network/members)
 
 </div>
